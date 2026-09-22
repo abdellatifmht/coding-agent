@@ -223,14 +223,12 @@ python tests/test_run_python_file.py
 
 ---
 
-## License
-
-This project is open source. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - [OpenRouter](https://openrouter.ai/) — Providing free access to powerful LLMs
 - [OpenAI Python SDK](https://github.com/openai/openai-python) — Used for API communication
 - [python-dotenv](https://github.com/theskumar/python-dotenv) — For environment variable management
+
+---
+
+[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/808b3c16-bc42-43e8-824c-5e9044b2c567.jpeg?v=1790099652)](https://www.boot.dev/certificates/808b3c16-bc42-43e8-824c-5e9044b2c567)
